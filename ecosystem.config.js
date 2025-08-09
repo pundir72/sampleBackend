@@ -2,7 +2,7 @@ module.exports = {
   apps: [
     {
       name: 'service-5010',
-      cwd: '/home/deepak/Desktop/365/sample/service-5010',
+      cwd: './service-5010',
       script: 'index.js',
       instances: 1,
       exec_mode: 'fork',
@@ -12,7 +12,7 @@ module.exports = {
     },
     {
       name: 'service-5011',
-      cwd: '/home/deepak/Desktop/365/sample/service-5011',
+      cwd: './service-5011',
       script: 'index.js',
       instances: 1,
       exec_mode: 'fork',
@@ -22,7 +22,7 @@ module.exports = {
     },
     {
       name: 'service-5012',
-      cwd: '/home/deepak/Desktop/365/sample/service-5012',
+      cwd: './service-5012',
       script: 'index.js',
       instances: 1,
       exec_mode: 'fork',
@@ -32,7 +32,7 @@ module.exports = {
     },
     {
       name: 'service-5013',
-      cwd: '/home/deepak/Desktop/365/sample/service-5013',
+      cwd: './service-5013',
       script: 'index.js',
       instances: 1,
       exec_mode: 'fork',
@@ -42,7 +42,7 @@ module.exports = {
     },
     {
       name: 'service-5014',
-      cwd: '/home/deepak/Desktop/365/sample/service-5014',
+      cwd: './service-5014',
       script: 'index.js',
       instances: 1,
       exec_mode: 'fork',
